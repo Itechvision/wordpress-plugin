@@ -67,7 +67,8 @@ Follow the below steps:
 ![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/d11838d7-0fa8-437f-a86a-d32816e111dd)
 
 4. Click **Install Now** and **Activate**.
-![](images/2.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/920a78a7-44ae-4f0a-b168-7863899cd020)
+
 5. Once the installation is complete, we need to configure WooCommerce as per the steps in https://docs.woocommerce.com/document/woocommerce-setup-wizard/
 ### Steps to install MasterCard Payment Gateway Services for WordPress
 Follow the below steps:
@@ -76,7 +77,8 @@ Follow the below steps:
 **or**
 1.2. Connect to the office of your shop with the available admin credentials and install the plugin through the WordPress plugins screen directly.
 Goto: Admin => Plugins => Installed Plugins => Click on 'Add New' => Then in the Top click on the "Upload Plugin" button.
-![](images/3.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/92af6eba-cea4-4107-9164-0b9ff91fa5f8)
+
 1.2.1 Then choose the module zip and click on the 'Install Now' button.
 ![](images/4.png)
 2. Activate the plugin through the 'Plugins' screen in WordPress.
