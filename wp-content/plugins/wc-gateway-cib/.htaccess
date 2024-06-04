@@ -1,4 +1,0 @@
-<FilesMatch "\.(des)$">
-	Order allow,deny
-	Deny from all
-</FilesMatch>
