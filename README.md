@@ -64,7 +64,8 @@ Follow the below steps:
 1. Connect to the office of your shop with the available admin credentials.
 2. Go to **Plugins > Add New** on your WordPress site.
 3. Enter **WooCommerce** in the Search Plugins bar. 
-![](images/1.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/d11838d7-0fa8-437f-a86a-d32816e111dd)
+
 4. Click **Install Now** and **Activate**.
 ![](images/2.png)
 5. Once the installation is complete, we need to configure WooCommerce as per the steps in https://docs.woocommerce.com/document/woocommerce-setup-wizard/
