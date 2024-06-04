@@ -84,7 +84,8 @@ Goto: Admin => Plugins => Installed Plugins => Click on 'Add New' => Then in the
 
 2. Activate the plugin through the 'Plugins' screen in WordPress.
  Goto: Admin => Plugins => Installed Plugins => MPGS => Click on "Activate Plugin"
-![](images/5.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/ebbac369-00c5-4322-b28b-f5541812a9c8)
+
 3. Go to the WooCommerce backend settings page.
 4. Navigate to the Payments tab, enable the MPGS module and save changes then you are ready.
 ---
@@ -93,9 +94,11 @@ Once you have installed the MasterCard Payment Gateway Services module, you can 
 ### Steps to configure the module
 1. Log into your WordPress Admin Panel.  
 2. In the WordPress Admin Panel, select WooCommerce > Settings > Payments.
-![](images/6.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/5ff5d838-9433-40a7-bfa4-6edc52b8e56d)
+
 3. Locate "MasterCard Payment Gateway Services" and then click the "Manage" button.
-![](images/7.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/4b3b13d2-8945-4dd0-bbc1-2f51474d1da5)
+
 3. The gateway configuration fields will be displayed. Configure according to your requirements and then click on the "Save Changes" button.
     - **Enable/Disable** - Tick the checkbox to make this Payment option available in the front end. Un-tick it to Disable it, so it will not display in the front end.
     - **Title** - Short payment method name displayed to the payer on the checkout page. Example, "Credit Card / Debit Card".
@@ -116,6 +119,7 @@ Once you have installed the MasterCard Payment Gateway Services module, you can 
 ### Steps to process a capture transaction on an order
 1. Edit the order in the admin. Path: Admin >  WooCommerce > Orders > Edit Order 
 2. On the right side of the order, you can open a dropdown menu and select "Capture Payment". Ensure the order is authorized, (see Order Notes, right side of the order page), otherwise an already captured order will not have the "capture" option.
-![](images/8.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/0515cce0-f012-46e6-acd2-4f278f4a0b80)
+
 3. After selecting "Capture Payment" as an option, click the "Update" button to capture funds for this order.
 
