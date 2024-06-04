@@ -80,7 +80,8 @@ Goto: Admin => Plugins => Installed Plugins => Click on 'Add New' => Then in the
 ![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/92af6eba-cea4-4107-9164-0b9ff91fa5f8)
 
 1.2.1 Then choose the module zip and click on the 'Install Now' button.
-![](images/4.png)
+![image](https://github.com/Itechvision/wordpress-plugin/assets/46921821/719756aa-b975-4699-ab74-ab21c702447b)
+
 2. Activate the plugin through the 'Plugins' screen in WordPress.
  Goto: Admin => Plugins => Installed Plugins => MPGS => Click on "Activate Plugin"
 ![](images/5.png)
